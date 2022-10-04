@@ -4,7 +4,9 @@ const Home = props => {
     return(
         <div>
             <h2>
-                Melissa Longenberger 
+                <a href="Melissa-Longenberger.com" target="_blank" rel="noreferrer">
+                    Melissa Longenberger
+                </a> 
                 <br/>
                 Interview
             </h2>

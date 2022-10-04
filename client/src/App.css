@@ -125,7 +125,11 @@ h1, h2, h3, h4, h5, h6 {
 /* LINKS */
 a {
     color: inherit;
+    font-size: inherit;
+    font-family: inherit;
     text-decoration: none;
+    animation: glow 1s ease-in-out infinite alternate;
+    padding: 1vh;
 }
 img {
     filter: opacity(0.5);

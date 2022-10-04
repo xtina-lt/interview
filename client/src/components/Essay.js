@@ -7,7 +7,7 @@ const Essay = () => {
                 Introduction
             </h3>
             An interview with                 
-                <a href="Melissa-Longenberger.com" target="_blank" rel="noreferrer">
+                <a href="https://melissa-longenberger.com/" target="_blank" rel="noreferrer">
                     Melissa Longenberger
                 </a> 
             was conducted on October 3, 2022, via zoom. 
